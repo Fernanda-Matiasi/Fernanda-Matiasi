@@ -1,8 +1,8 @@
 ## Oii gente!, Eu sou Fernanda Matiasi😄
 
--📚 Cursando Análise e Desenvolvimento de Sistemas;<br>
--🧐 Empenhando-se em aprender programação;<br>
--🥰 Adoro conhecer lugares novos.<br>
+📚 Cursando Análise e Desenvolvimento de Sistemas;<br>
+🧐 Empenhando-se em aprender programação;<br>
+🥰 Adoro conhecer lugares novos.<br>
 
 <div align="center">
   <a href="https://github.com/Fernanda-Matiasi">
@@ -17,8 +17,6 @@
   <img align="center" alt="Fefe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fefe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Fefe-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/87779901/136484651-8c06dcbb-9600-4daa-b4d5-07aaf0acb8a3.png">
-  
-
 </div>
 
   ##
