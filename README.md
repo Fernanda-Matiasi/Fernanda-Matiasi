@@ -1,4 +1,4 @@
-## Oii gente!, Eu sou Fernanda Matiasi😄
+## Oii gente! Eu sou Fernanda Matiasi😄
 
 📚 Cursando Análise e Desenvolvimento de Sistemas;<br>
 🧐 Empenhando-se em aprender programação;<br>
