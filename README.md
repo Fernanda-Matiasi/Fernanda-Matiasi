@@ -1,7 +1,8 @@
-# Oii gente!, Eu sou Fernanda Matiasi😄
--📚 Cursando Análise e Desenvolvimento de Sistemas;
--🧐 Empenhando-se em aprender programação;
--🥰 Adoro conhecer lugares novos.
+## Oii gente!, Eu sou Fernanda Matiasi😄
+
+-📚 Cursando Análise e Desenvolvimento de Sistemas;<br>
+-🧐 Empenhando-se em aprender programação;<br>
+-🥰 Adoro conhecer lugares novos.<br>
 
 <div align="center">
   <a href="https://github.com/Fernanda-Matiasi">
