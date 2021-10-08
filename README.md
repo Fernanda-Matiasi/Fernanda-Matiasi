@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Fernanda-Matiasi
-- 👀 I’m interested in ...
+# Oii gente!, Eu sou Fernanda-Matiasi, estudante de Análise e Desenvolvimentode Sistemas!<3
 
 <div align="center">
   <a href="https://github.com/Fernanda-Matiasi">
