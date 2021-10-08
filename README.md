@@ -13,8 +13,7 @@
   <img align="center" alt="Fefe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fefe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fefe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Fefe-pic" height="150" style="border-radius:50px;"
-       src="https://media.discordapp.net/attachments/895820601351086120/895832095564382249/image0.gif?width=406&height=406">
+  <img align="right" alt="Fefe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/895820601351086120/895832095564382249/image0.gif?width=406&height=406">
 </div>
 
   ##
