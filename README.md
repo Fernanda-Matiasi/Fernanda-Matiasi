@@ -1,4 +1,7 @@
-# Oii gente!, Eu sou Fernanda Matiasi, estudante de Análise e Desenvolvimentode Sistemas!<3
+# Oii gente!, Eu sou Fernanda Matiasi😄
+-📚 Cursando Análise e Desenvolvimento de Sistemas;
+-🧐 Empenhando-se em aprender programação;
+-🥰 Adoro conhecer lugares novos.
 
 <div align="center">
   <a href="https://github.com/Fernanda-Matiasi">
