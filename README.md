@@ -1,4 +1,4 @@
-## Oii gente! Eu sou a Fernanda Matiasi😄
+## Oii gente! Eu sou Fernanda Matiasi😄
 
 👩🏻‍💻 Desenvolvedora - Júnior;<br>
 🧐 Empenhando-se em aprender programação;<br>
