@@ -1,6 +1,6 @@
 ## Oii gente! Eu sou a Fernanda Matiasi😄
 
-📚 Cursando Análise e Desenvolvimento de Sistemas;<br>
+👩🏻‍💻 Desenvolvedora - Júnior;<br>
 🧐 Empenhando-se em aprender programação;<br>
 🥰 Adoro conhecer lugares novos.<br>
 
