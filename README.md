@@ -1,7 +1,7 @@
 ## Oii gente! Eu sou Fernanda Matiasi😄
 
-👩🏻‍💻 Desenvolvedora - Júnior;<br>
-🧐 Empenhando-se em aprender programação;<br>
+👩🏻‍💻Desenvolvedora - Júnior;<br>
+😆Empenhando-se em aprender programação;<br>
 🥰 Adoro conhecer lugares novos.<br>
 
 <div align="center">
