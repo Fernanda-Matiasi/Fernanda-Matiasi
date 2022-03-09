@@ -2,7 +2,6 @@
 
 👩🏻‍💻Desenvolvedora - Júnior;<br>
 😆Empenhando-se em aprender programação;<br>
-🥰 Adoro conhecer lugares novos.<br>
 
 <div align="center">
   <a href="https://github.com/Fernanda-Matiasi">
