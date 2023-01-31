@@ -16,7 +16,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/956924562736566274/956925889344598076/e53431ea-69d3-46db-9e4c-e9545b212ca0.png?width=401&height=401">
+ 
   
 </div>
 
